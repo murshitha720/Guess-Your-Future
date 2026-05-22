@@ -1,4 +1,4 @@
-# Guess-Your-FutureCareer Guidance Web App
+# Guess-Your-Future
 
 An AI-powered Career Guidance System built using Flask and Machine Learning that helps students discover suitable career paths based on their:
 
