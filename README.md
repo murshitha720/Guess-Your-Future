@@ -21,7 +21,7 @@ Pandas
 NumPy
 Joblib
 ⚙️ Installation
-git clone https://github.com/your-username/career-guidance-app.git
+git clone https://github.com/murshitha720/Guess-Your-Future
 cd career-guidance-app
 pip install -r requirements.txt
 ▶️ Run the Project
@@ -30,6 +30,10 @@ python app.py
 Open in browser:
 
 http://127.0.0.1:5000/
+
+Run with:
+
+
 📌 Features
 
 ✅ Career Prediction
